@@ -14,9 +14,9 @@ from de.condition_occurrence co
     and ex.drug_concept_id in ('19018935','1539411','1539463','19075601','1115171')
 where co.person_id =347825
 )
-select 'a -> (b,c)' pattern, person_count
+select 'a -> (b,c)' pattern, '' person_count
 from tmp
 union
-select 'a -> b -> c' pattern, person_count
+select 'a -> b -> c' pattern, '' person_count
 from tmp
 ;
