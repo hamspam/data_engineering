@@ -1,0 +1,3 @@
+"drug_exposure_id","person_id","drug_exposure_start_date","drug_value","route_value","dose_value","unit_value","visit_occurrence_id"
+1,1,1984-06-07,"{""FLUoxetine ""}",Oral,{20},MG,3
+2,1,2011-06-20,"{""Acetaminophen ""}",Oral,{325},MG,6

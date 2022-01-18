@@ -1,0 +1,24 @@
+"visit_occurrence_id","person_id","visit_start_date","care_site_nm","visit_type_value"
+1,1,1977-04-10,FALMOUTH HOSPITAL,ambulatory
+2,1,1984-06-07,FALMOUTH HOSPITAL,ambulatory
+3,1,1984-06-07,FALMOUTH HOSPITAL,ambulatory
+4,1,1996-07-04,Cape Cod Vet Center,wellness
+5,1,2011-05-12,Cape Cod Vet Center,wellness
+6,1,2011-06-20,Cape Cod Vet Center,ambulatory
+7,1,2013-05-16,Cape Cod Vet Center,wellness
+8,1,2014-01-26,Cape Cod Vet Center,ambulatory
+9,1,2015-04-23,Cape Cod Vet Center,ambulatory
+10,1,2015-04-23,Cape Cod Vet Center,wellness
+11,1,2015-04-23,Cape Cod Vet Center,ambulatory
+12,1,2016-04-28,Cape Cod Vet Center,wellness
+13,1,2017-05-04,Cape Cod Vet Center,wellness
+14,1,2018-05-10,Cape Cod Vet Center,wellness
+15,1,2019-04-21,Cape Cod Vet Center,ambulatory
+16,1,2019-05-16,Cape Cod Vet Center,wellness
+17,1,2019-06-20,Cape Cod Vet Center,ambulatory
+18,1,2019-06-27,Cape Cod Vet Center,ambulatory
+19,1,2019-07-11,Cape Cod Vet Center,outpatient
+20,1,2019-07-18,Cape Cod Vet Center,ambulatory
+21,1,2020-02-25,Cape Cod Vet Center,ambulatory
+22,1,2020-04-21,Cape Cod Vet Center,ambulatory
+23,1,2020-05-21,Cape Cod Vet Center,wellness

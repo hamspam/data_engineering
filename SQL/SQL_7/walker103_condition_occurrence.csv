@@ -1,0 +1,10 @@
+"condition_occurrence_id","person_id","condition_start_date","condition_value","visit_occurrence_id"
+1,1,1977-04-10,Chronic sinusitis (disorder),1
+2,1,1984-06-07,Major depression disorder,3
+3,1,1996-07-04,Body mass index 30+ - obesity (finding),4
+4,1,2011-06-20,Acute bronchitis (disorder),6
+5,1,2013-05-16,Prediabetes,7
+6,1,2014-01-26,Viral sinusitis (disorder),8
+7,1,2015-04-23,Anemia (disorder),11
+8,1,2019-04-21,Acute bacterial sinusitis (disorder),15
+9,1,2020-02-25,COVID-19  2020-02-25,21
